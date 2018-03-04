@@ -1,2 +1,2 @@
-# codingtest
-solutions for coding test
+# CodingTest
+Solutions for coding test
