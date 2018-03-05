@@ -1,8 +1,11 @@
 # CodingTest
 Solutions for coding test
 
-HackerRank
+LinkedIn<br/>
+https://www.linkedin.com/in/yetaochen
+
+HackerRank<br/>
 https://www.hackerrank.com/CleanCoder
 
-LeetCode
+LeetCode<br/>
 https://leetcode.com/cleanleetcoder
